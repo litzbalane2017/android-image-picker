@@ -7,7 +7,7 @@
     <string name="ef_camera">CAMERA</string>
 
     <string name="ef_title_folder">Folder</string>
-    <string name="ef_title_select_image">Select Image/string>
+    <string name="ef_title_select_image">Select Image</string>
     <string name="ef_ltitle_permission_denied">Permission denied</string>
 
     <string name="ef_selected">%d selected</string>
