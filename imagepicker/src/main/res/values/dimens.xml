@@ -10,5 +10,5 @@
     <dimen name="ef_margin_large">15dp</dimen>
 
     <dimen name="ef_font_small">12sp</dimen>
-    <dimen name="ef_font_medium">16sp</dimen>
+    <dimen name="ef_font_medium">14sp</dimen>
 </resources>
